@@ -1,0 +1,21 @@
+input{
+    background-color:rgb(229 231 235) !important;
+}
+input:focus{
+    box-shadow: none !important;
+    border-color: transparent !important;
+    /* background-color: transparent ; */
+}
+.coding_image{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (max-width: 767.98px) { 
+.md-order{
+    order: 2;
+}
+
+
+}
